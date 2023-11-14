@@ -1,5 +1,5 @@
 # Financial-Health-Calculator
-# Financial Health Calculator
+
 
 The Financial Health Calculator is a Spring Boot application that allows users to input their monthly income, expenses, debts, and assets. Based on this input, the application calculates a Financial Health Score and provides suggestions for the user's financial health.
 
